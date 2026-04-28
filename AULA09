@@ -1,0 +1,44 @@
+Aqui vai uma reformulação mantendo o mesmo conteúdo, mas com linguagem diferente e mais adequada para um repositório acadêmico no GitHub:
+
+---
+
+Parecer Final: Unidade 2 – Programação Assistida por IA e Automação
+
+1. Introdução
+
+Ao longo da Unidade 2, foi possível compreender o papel estratégico da Inteligência Artificial (IA) como suporte ao desenvolvimento de software. A tecnologia se mostra aplicável em diferentes etapas do ciclo de programação, desde a elaboração inicial de códigos até a modernização de sistemas já existentes, sem restrição a linguagens específicas.
+
+2. Aprendizados Relevantes
+
+Adaptação a diferentes linguagens:
+A IA apresenta capacidade de atuar em diversos contextos de programação, auxiliando o desenvolvedor na alternância entre diferentes tecnologias e padrões sintáticos.
+
+Criação e melhoria de código:
+
+Geração: Produção de trechos de código funcionais a partir de descrições em linguagem natural.
+Refatoração: Reestruturação de códigos já existentes, com foco em melhorar desempenho, clareza e facilidade de manutenção.
+
+Importância da Engenharia de Prompt:
+A eficácia das respostas fornecidas por modelos de IA depende diretamente da qualidade das instruções recebidas. Prompts bem estruturados, claros e específicos reduzem ambiguidades e evitam resultados inconsistentes ou excessivos.
+
+3. Interação entre Desenvolvedor e IA
+
+Um dos principais pontos abordados é que a IA não substitui o profissional de desenvolvimento, mas atua como uma ferramenta de apoio, semelhante ao conceito de *pair programming*.
+Atenção: Todo conteúdo gerado por IA deve ser validado por um desenvolvedor.
+
+Nesse contexto, o papel do desenvolvedor passa a incluir uma análise crítica da saída gerada, garantindo:
+
+Padronização:Conformidade com as diretrizes e arquitetura do projeto.
+Eficiência: Implementação de soluções diretas, evitando complexidade desnecessária.
+Segurança: Identificação de possíveis vulnerabilidades não percebidas pelo modelo.
+
+4. Considerações Finais
+
+A utilização da IA no desenvolvimento de software potencializa a produtividade e otimiza processos. No entanto, o diferencial está na capacidade do desenvolvedor de interagir de forma eficaz com essas ferramentas, aliando conhecimento técnico a um uso estratégico da engenharia de prompts.
+
+5. Referência
+
+Conteúdo originalmente produzido pelo autor e posteriormente revisado e estruturado com o auxílio do modelo de IA GEMINI, com formatação em Markdown.
+
+
+Se quiser, posso adaptar ainda mais o texto (mais formal, mais técnico, ou mais “GitHub style” com badges, tópicos curtos etc.).
